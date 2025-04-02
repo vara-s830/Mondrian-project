@@ -16,7 +16,7 @@
 - HTML: Used for structuring the web page and defining the content.
 
 ## Usage:
-- To explore the Mondrian painting, simply open the https://127.0.0.1:3000/CSS/10.3%20Mondrian%20Project/solution.html in a web browser. Use your mouse or touch input to interact with the elements and experiment with different configurations.
+- To explore the Mondrian painting, simply open the https://ibb.co/sMc1r4x.html in a web browser. Use your mouse or touch input to interact with the elements and experiment with different configurations.
 
 ## Contributing:
 - Contributions to this project are welcome! If you have any ideas for improvements or bug fixes, please submit a pull request. Make sure to follow the project's code of conduct and guidelines for contributing.
